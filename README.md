@@ -22,5 +22,4 @@ git clone https://github.com/abidakram01/angular-movie-app.git
 cd angular-app-heroku
 npm install
 ng serve
-go to http://localhost:4200/
 ```
