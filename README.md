@@ -15,3 +15,12 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 - API : https://swapi.dev/
 
 Live Demo : https://starwar-app-heroku.herokuapp.com
+
+# Installation
+```
+git clone https://github.com/abidakram01/angular-movie-app.git
+cd angular-app-heroku
+npm install
+ng serve
+go to http://localhost:4200/
+```
