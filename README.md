@@ -19,7 +19,8 @@ Live Demo : https://starwar-app-heroku.herokuapp.com
 # Installation
 ```
 git clone https://github.com/abidakram01/angular-movie-app.git
-cd angular-app-heroku
+cd angular-movie-app
 npm install
+npm start
 ng serve
 ```
