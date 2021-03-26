@@ -18,7 +18,7 @@ Live Demo : https://starwar-app-heroku.herokuapp.com
 
 # Installation
 ```
-git clone https://github.com/abidakram01/angular-movie-app.git
+git clone https://github.com/Najia-Manjur/angular-movie-app.git
 cd angular-movie-app
 npm install
 npm start
